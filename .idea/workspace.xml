@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c92c4037-c7ed-49ac-9684-157439041b33" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Zadanie5/main5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Zadanie5/zadanie5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Zadanie8/main8.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Sprawdzian2303/Zadanie1/main1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Sprawdzian2303/Zadanie1/zadanie1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Sprawdzian2303/Zadanie8/Zadanie8.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Sprawdzian2303/Zadanie8/main8.class" afterPath="$PROJECT_DIR$/out/production/Sprawdzian2303/Zadanie8/main8.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Zadanie7/main7.java" afterPath="$PROJECT_DIR$/src/Zadanie7/main7.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Zadanie5/main5.java" afterPath="$PROJECT_DIR$/src/Zadanie5/main5.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/src/Zadanie5/main5.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+              <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -55,8 +48,8 @@
       <file leaf-file-name="zadanie5.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Zadanie5/zadanie5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <state relative-caret-position="0">
+              <caret line="0" column="12" lean-forward="true" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -329,12 +322,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521361020002</updated>
-      <workItem from="1521361023067" duration="9851000" />
+      <workItem from="1521361023067" duration="10133000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9851000" />
+    <option name="totallyTimeSpent" value="10133000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -710,8 +703,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Zadanie5/zadanie5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="true" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -719,7 +712,7 @@
     <entry file="file://$PROJECT_DIR$/src/Zadanie5/main5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
           <folding />
         </state>
       </provider>
