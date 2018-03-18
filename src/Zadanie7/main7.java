@@ -10,7 +10,7 @@ public class main7 {
         stringOfChar = scr.nextLine();
 
         zadanie7 zad7 = new zadanie7();
-        String z = zadanie7.rev(stringOfChar);
+        String z = zad7.rev(stringOfChar);
         System.out.println(z);
 
     }
